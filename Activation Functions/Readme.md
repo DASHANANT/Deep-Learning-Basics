@@ -3,7 +3,7 @@ Types of activation function in Deep Neural Networks
 - Linear
 - Sigmoid
 - ReLU
-- Leaky ReLU
+  - Leaky ReLU
 - Hyperbolic tangent (Tanh)
 - Exponential linear unit (ELU)
 - SoftMax
