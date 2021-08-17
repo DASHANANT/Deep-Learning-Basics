@@ -4,3 +4,8 @@ An ANN is based on a collection of connected units or nodes called artificial ne
 
 -------------------------
 ![](https://upload.wikimedia.org/wikipedia/commons/4/44/Neuron3.png)
+
+
+How artificaial neural network looks
+----------------------------
+![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Neural%20Network/Architecture-of-multilayer-artificial-neural-network-with-error-backpropagation.png)
