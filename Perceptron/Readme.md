@@ -12,21 +12,21 @@ The perceptron works on these simple steps
 
 - a. All the inputs x are multiplied with their weights w. Let’s call it k.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1__Zy1C83cnmYUdETCeQrOgA.png)
+-----------------------
 
---- Fig: Multiplying inputs with weights for 5 inputs
 
 
 - b. Add all the multiplied values and call them Weighted Sum.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1_xFd9VQnUM1H0kiCENsoYxg.gif)
+-----------------------
 
---- Fig: Adding with Summation
 
 
 - c. Apply that weighted sum to the correct Activation Function.
 For Example: Unit Step Activation Function.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1_0iOzeMS3s-3LTU9hYH9ryg.png)
+-----------------------
 
---- Fig: Unit Step Activation Function
 
 
 
@@ -34,7 +34,7 @@ Why do we need Weights and Bias?
 ----
 Weights shows the strength of the particular node.
 A bias value allows you to shift the activation function curve up or down.
-![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1_n6sJ4yZQzwKL9wnF5wnVNg.png)
 
 Why do we need Activation Function?
+----
 In short, the activation functions are used to map the input between the required values like (0, 1) or (-1, 1).
