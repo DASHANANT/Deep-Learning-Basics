@@ -9,22 +9,22 @@ How does it work?
 ------------
 The perceptron works on these simple steps
 -----------------------
-a. All the inputs x are multiplied with their weights w. Let’s call it k.
 
+- a. All the inputs x are multiplied with their weights w. Let’s call it k.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1__Zy1C83cnmYUdETCeQrOgA.png)
 Fig: Multiplying inputs with weights for 5 inputs
------------
-b. Add all the multiplied values and call them Weighted Sum.
+
+
+- b. Add all the multiplied values and call them Weighted Sum.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1_xFd9VQnUM1H0kiCENsoYxg.gif)
-
 Fig: Adding with Summation
------------
 
-c. Apply that weighted sum to the correct Activation Function.
+
+- c. Apply that weighted sum to the correct Activation Function.
 For Example: Unit Step Activation Function.
 ![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Perceptron/1_0iOzeMS3s-3LTU9hYH9ryg.png)
 Fig: Unit Step Activation Function
------------
+
 
 
 Why do we need Weights and Bias?
