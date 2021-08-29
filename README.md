@@ -1,4 +1,8 @@
 # Deep-Learning-Basics-Python-files
-Full Mathematics Behind Small Important Concepts 
+Deep learning is an artificial intelligence (AI) function that imitates the workings of the human brain in processing data and creating patterns for use in decision making.
+Learning can be supervised, semi-supervised or unsupervised.
 
+
+Full Mathematics Behind Small Important Concepts 
+----
 ![BlogGraphics](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/BlogGraphics.png)
