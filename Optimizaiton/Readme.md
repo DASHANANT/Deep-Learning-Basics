@@ -14,11 +14,11 @@ Basic Optimization techniques to minimize Cost function
 --------------------
 - *Newtons method*
 -----------------------
-![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Optimizaiton/Constraint-set-lines-points-number-solutions.jpg)
+![](https://github.com/DASHANANT/Deep-Learning-Basics/blob/main/Optimizaiton/NM.png)
 
 - *Gradient decent* 
 -----------------------
-![](https://github.com/DASHANANT/Deep-Learning-Basics-Python-files/blob/main/Optimizaiton/Constraint-set-lines-points-number-solutions.jpg)
+![](https://github.com/DASHANANT/Deep-Learning-Basics/blob/main/Optimizaiton/GD.png)
 
 - Stochastic Gradient Descent
 - Reduced Gradient Descent 
